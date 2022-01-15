@@ -63,8 +63,8 @@ while winner != 0:
                         print ("input was " , y)
                         print("left[y] = ", left)
                         print("numbers left", len(left))
-                        if len(left) == 0:
-                            print ("Cat's Game. No winner. Do you want to play again?")
+                        # if len(left) == 0:
+                        #     print ("Cat's Game. No winner. Do you want to play again?")
                         whosturn = "Po"
             elif whosturn == 'Po':
                 if len(left) == 0:
