@@ -1,4 +1,10 @@
-print("Hello, World!\n Welcome to Tic-Tac-Toe")
+'''
+Tic-Tac-Toe: Going from functioning to having functions.
+Author: Rune Larsen.
+'''
+
+
+print("Hello, World!\nWelcome to Tic-Tac-Toe")
 tac = [1,2,3,4,5,6,7,8,9]
 left = [1,2,3,4,5,6,7,8,9]
 whosturn = "Px"
